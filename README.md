@@ -1,5 +1,5 @@
-# Live Demo 
-[Live Demo](https://emre613461.github.io/weather-project/)
+# Live Demo [Live Demo](https://emre613461.github.io/weather-project/)
+
 
 # Boostrap
 
