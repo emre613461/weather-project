@@ -1,9 +1,9 @@
 # [Live Demo](https://emre613461.github.io/weather-project/)
 
 
-# Boostrap
+# [Botstrap](https://getbootstrap.com)
 
-[Botstrap](https://getbootstrap.com)
+
 
 # Getting Started with Create React App
 
